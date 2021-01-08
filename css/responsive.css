@@ -1,0 +1,469 @@
+@media (max-width: 1199px) {
+	.tablet {display: block;}
+	.desktop {display: none;}
+
+	section.advantages, section.whyit, section.mainElem, section.listConsist, section.slider, section.howmuch,.cardWrap,section.testimonials,.questions, section.contacts {
+		background-image: none;
+	    overflow: hidden;
+	}
+	header.scroll-fixed-navbar {
+		    min-width: 744px;
+		    max-width: 1199px;
+		    width: 100%;
+	}
+	.topMain, .topMain .bgcolor {
+		height: 620px;
+	}
+	.topMain .bgcolor {
+		background-position: center -50px;
+	}
+	.container {
+		max-width: 724px;
+	}
+	.mainPage h1 {
+		font-size: 60px;
+	}
+	.mainPage .imgLogo {
+    	margin-left: 20px;
+    	margin-right: 30px;
+	}
+	.menu {
+		margin: 20px 0px 20px;
+	}
+	.menu a {
+		margin: 0 35px;
+	}
+	.mainPage {
+		padding-top: 143px;
+	    padding-bottom: 80px;
+	}
+	.mainPage h1 {
+		line-height: 1.5;
+	}
+	.coords {
+	    margin-left: -60px;
+	    margin-top: 0;
+	    display: flex;
+	    align-items: center;
+	}
+	.coords a span {
+		font-weight: 700;
+	}
+	section.advantages {
+		padding: 50px 0 0;
+	}
+	.partners {
+		margin: auto;
+	}
+	.partnImg {
+		margin: 30px auto;
+	}
+	.partnImg img {
+	    max-width: 60%;
+	}
+	.prevBlock {
+		width: 50%;
+	    margin: 30px auto;
+	}
+	.mainElWrapper {
+		width: 100%;
+	}
+	section.mainElem {
+		overflow: hidden;
+		position: relative;
+		height: 600px;
+	}
+	.mainElem .tablet .headname {
+		font-weight: 700;
+		text-align: left;
+		font-size: 18px;
+   		margin-bottom: 20px;
+	} 
+	.mainElem ul.tablet {
+		display: inline-block;
+		width: 35%;
+		margin-left: 30px;
+	}
+	.mainElem ul.tablet li {
+		padding-left: 0;
+	}
+	.mainElem ul.tablet li p {
+		font-size: 14px;
+    	line-height: 24px;
+	}
+	.ui-state-default:after {
+		content: "+";
+		display: inline-block;
+		float: right;
+	}
+	.ui-state-active:after {
+		content: "-";
+		display: inline-block;
+		float: right;
+	}
+	.outlinePic {
+		margin-top: 0;
+		overflow: hidden;
+	}
+	.extended {
+		display: block;
+	}
+	.leftsit {
+		width: 100%;
+	}
+	.leftsit .content {
+	    margin-right: 0;
+	}
+	.leftsit .h1 {
+		letter-spacing: 1px;
+		text-align: center;
+		font-size: 36px;
+	    font-weight: 300;
+	    text-transform: uppercase;
+	}
+	.leftsit .h1 span {font-weight: 700;}
+	.leftsit .continfo {
+		text-align: center;
+		margin: 0;
+	}
+	.rightSit {
+		width: 100%;
+	    display: block;
+	}
+	.extendedInfo {
+		display: block;
+	    margin: 70px 0;
+	}
+	.pictureInside {
+		display: inline-block;
+		width: 25%;
+    	margin-right: 10px;
+        vertical-align: middle;
+    	text-align: center;
+    	float: left;
+	}
+	.pictureInside img {
+		max-width: 100%;
+	}
+	.textInside {
+		display: inline-block;
+		width: 72%;
+	    vertical-align: middle;
+	}
+/*	.slick-slide img {
+		max-width: 100%;
+	}*/
+	.textInside .h4 {
+		font-weight: 700;
+	}
+	.rightSit .dotki li {
+		margin: 30px 15px 30px;
+	}
+	.onelineBlock {
+		flex-wrap: wrap;
+	}
+	.onelineBlock .h3 {
+		margin-bottom: 50px;
+	}
+	.blockHeader {
+		padding: 50px 0 50px;
+	}
+	.slick-next {
+	    margin-left: 665px;
+	}
+	.ourPrices {
+		padding: 50px 0 50px;
+	}
+	.cardWrap {
+		padding: 20px 0;
+	}
+	.pricecard {
+    	width: 31%;
+		margin: 20px auto;
+	}
+	.pricecard .h2 {
+		font-size: 22px;
+	}
+	.pricecard .h4 {
+		font-size: 18px;
+	}
+	.pricecard .h2 .number {
+		font-size: 100px;
+		top: -42px;
+	}
+	.listPack {
+		margin: 10px 5px 25px;
+	}
+	.infopackTbl tbody {
+		font-size: 12px;
+	}
+	.infopackTbl tbody tr:last-child td:last-child p {
+		font-size: 11px;
+	}
+	.infopackTbl table tr td:nth-child(even) {
+		padding-left: 5px;
+	}
+	.infopackTbl tbody tr:last-child td:last-child p:first-child {
+		margin-top: -2px;
+	}
+	.deadline.desktop {display: block;}
+	.costlist .h2extra {font-size: 32px;}
+	button.stayhere {
+		opacity: 1;
+	}
+	.feedbackUsers .h2 {
+		padding: 50px 0;
+	}
+	.userSlider .picContainer {
+		width: 220px;
+    	height: 220px;
+    	margin-left: 0;
+	}
+	.userInfo {
+		width: 60%;
+	}
+	.dotki li {
+		margin: 50px 15px 35px;
+	}
+	.userInfo .h4 {
+		font-size: 20px;
+	}
+	.userInfo p.ufirm {
+		margin-bottom: 20px;
+	}
+	.questionnare {
+		padding: 50px 0 50px;
+	}
+	.fform {
+		flex-wrap: wrap;
+	}
+	.fform textarea {
+		width: 70%;
+    	margin: auto;
+    	max-height: none;
+        height: 200px;
+    	margin: 0 auto 30px
+	}
+	.forma {
+		justify-content: center;
+   		width: 80%;
+   	    margin: auto;
+	}
+	.connect {
+		padding: 0 0 50px;
+	}
+	.contactInfo {
+		margin-right: 40px;
+	}
+	.contLeft {
+		align-items: center;
+		width: 66%;
+	}
+	.contRight {
+		width: 33%;
+	}
+
+}
+
+@media (max-width: 743px) {
+	.container {
+		max-width: 300px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	header.scroll-fixed-navbar {
+		display: none;
+	}
+	.menu a {
+		font-size: 15px;
+	    margin: 0 14px 14px;
+	}
+	.mainPage {
+	    padding-top: 143px;
+	    padding-bottom: 80px;
+	    height: 207px;
+	}
+	.mainPage h1 {
+		font-size: 38px;
+	}
+	.mainPage .headText {
+		order: 1;
+	}
+	.imgLogo {
+		order: 2;
+	}
+	.coords {
+		order: 3;
+		margin-left: -120px;
+    	margin-top: 100px;
+	}
+	.mainPage .imgLogo {
+		position: absolute;
+	    margin-top: 100px;
+	    width: 100px;
+	    align-items: center;
+	}
+	.imgLogo img {
+		width: 70px;
+    	height: auto;
+	}
+	.partnImg {
+	    margin: 30px auto 0;
+	}
+	.partnImg img {
+		margin: auto;
+	}
+	.whyit .h2 {
+		font-size: 32px;
+	}
+	.whyit .bgcolor {
+		z-index: 1;
+	}
+	.whyit .h4 {
+		font-size: 20px;
+	}
+	.whyit p {
+		font-size: 14px;
+	}
+	.slider .h2 {
+		font-size: 24px;
+	}
+	.prevBlock {
+		display: flex !important;
+		width: 100%;
+	}
+	.prevInfo {
+		margin-left: 20px;
+    	margin-right: 0px;
+	}
+ 	.mainElem {display: none;}
+ 	.extendedInfo {display: flex !important;}
+ 	.textInside .h4 {
+ 		font-size: 18px;
+ 		line-height: 24px;
+ 	}
+ 	.textInside p {
+ 		font-size: 16px;
+ 		line-height: 24px;
+ 	}
+ 	.pictureInside img {margin: auto;}
+ 	.onelineBlock {padding: 50px 0;}
+ 	.onelineBlock .h3 {font-size: 26px;}
+ 	.qform {flex-wrap: wrap;}
+ 	.qform input {
+ 		font-size: 18px;
+ 		width: 100%;
+ 	    margin: 0 0 15px;
+ 	}
+ 	button.sendQform {
+ 		width: 100%;
+ 	}
+ 	.gallerySlider .dotki li {
+	    margin: 20px 7px;
+	}
+	.ourPrices>.h2 {
+		font-size: 27px;
+	    padding: 45px 0px;
+	}
+	.pricecard {margin: 0 5px;}
+	.infopackTbl tbody tr.visual {display: none;}
+	.deadline.desktop {display: none;}
+	.infopackTbl table tr td.deadline.mobi {
+		display: table-cell;
+		text-align: center;
+		font-weight: 600;
+	}
+	.feedbackUsers .h2 {
+		margin-left: 0;
+		font-size: 22px;
+		width: 100%;
+	}
+	.userSlider .picContainer {
+		width: 200px;
+		height: 200px;
+	}
+	.userInfo {
+	    width: 100%;
+	    margin: 50px 0px 0;
+	}
+	.userInfo .h4 {
+		font-size: 18px;
+	}
+	.userInfo p.ufirm {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.userInfo p {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.questionnare .h3 {
+    	padding: 20px 0;
+    	margin-left: 0;
+    	font-size: 24px;
+	}
+	.forma {
+		flex-wrap: wrap;
+		width: 100%;
+	}
+	.fform textarea, .fform input, button.sendFform {
+		width: 100%;
+	    margin: 0 auto 10px;
+	}
+	.connect .h2 {
+		font-size: 20px;
+		padding: 0;
+	}
+	.contactsWrapper {
+		flex-wrap: wrap;
+	}
+	.contactsWrapper .h3 {font-size: 18px;}
+	.contactInfo {
+		margin: 0;
+		width: 70%;
+	}
+	.contactInfo p {font-size: 14px;}
+	.contLeft {
+		display: flex;
+		width: 100%;
+		order: 2;
+		align-items: flex-start;
+	}
+	.contRight {
+		display: flex;
+		width: 100%;
+		order: 1;
+		margin-left: 10px;
+		margin-bottom: 30px;
+	}
+	.contRight .h3 {display: none;}
+	.mail {margin-bottom: 10px;}
+	.mobile {margin-top: 10px;}
+	.logosPic {
+		align-items: center;
+		display: inline-flex;
+		margin-top: 60px;
+	}
+	.popupContainer {
+		width: 100%;
+	}
+	.pform {
+    	padding: 50px 10px;
+	}
+	.pform .h3 {
+		font-size: 22px;
+	}
+	.pform input::placeholder, button.sendPform {
+		font-size: 22px;
+	}
+	.buttnWrap {
+		width: 100%;
+	}
+	.pform input, button.sendPform {
+		width: 100%;
+	}
+/*.questions, .contacts, footer {
+	display: none;
+}*/
+
+}
